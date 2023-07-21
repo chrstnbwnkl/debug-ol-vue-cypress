@@ -1,0 +1,126 @@
+{
+  "type": "FeatureCollection",
+  "name": "some",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": { "rand_point_id": 0, "temperature": 29.2 },
+      "geometry": { "type": "Point", "coordinates": [-81.7717, 24.58019] }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "properties": { "rand_point_id": 1, "temperature": 30.8 },
+      "geometry": { "type": "Point", "coordinates": [-81.7587, 24.551745] }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "properties": { "rand_point_id": 2, "temperature": 25.8 },
+      "geometry": { "type": "Point", "coordinates": [-81.782107, 24.55944] }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "properties": { "rand_point_id": 3, "temperature": 27.6 },
+      "geometry": { "type": "Point", "coordinates": [-81.778092, 24.576711] }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "properties": { "rand_point_id": 4, "temperature": 25.3 },
+      "geometry": { "type": "Point", "coordinates": [-81.790597, 24.556253] }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "properties": { "rand_point_id": 5, "temperature": 25.7 },
+      "geometry": { "type": "Point", "coordinates": [-81.747522, 24.551726] }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "properties": { "rand_point_id": 6, "temperature": 25.7 },
+      "geometry": { "type": "Point", "coordinates": [-81.79207, 24.550052] }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "properties": { "rand_point_id": 7, "temperature": 29.9 },
+      "geometry": { "type": "Point", "coordinates": [-81.772563, 24.57602] }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "properties": { "rand_point_id": 8, "temperature": 29.3 },
+      "geometry": { "type": "Point", "coordinates": [-81.786321, 24.557107] }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "properties": { "rand_point_id": 9, "temperature": 28.5 },
+      "geometry": { "type": "Point", "coordinates": [-81.799456, 24.573231] }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "properties": { "rand_point_id": 10, "temperature": 30.3 },
+      "geometry": { "type": "Point", "coordinates": [-81.794171, 24.57545] }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "properties": { "rand_point_id": 11, "temperature": 26.5 },
+      "geometry": { "type": "Point", "coordinates": [-81.784491, 24.555391] }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "properties": { "rand_point_id": 12, "temperature": 29.2 },
+      "geometry": { "type": "Point", "coordinates": [-81.791603, 24.566367] }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "properties": { "rand_point_id": 13, "temperature": 25.7 },
+      "geometry": { "type": "Point", "coordinates": [-81.784018, 24.561681] }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "properties": { "rand_point_id": 14, "temperature": 30.2 },
+      "geometry": { "type": "Point", "coordinates": [-81.785488, 24.56611] }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "properties": { "rand_point_id": 15, "temperature": 29.6 },
+      "geometry": { "type": "Point", "coordinates": [-81.794665, 24.58405] }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "properties": { "rand_point_id": 16, "temperature": 28.0 },
+      "geometry": { "type": "Point", "coordinates": [-81.794124, 24.546139] }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "properties": { "rand_point_id": 17, "temperature": 28.3 },
+      "geometry": { "type": "Point", "coordinates": [-81.776588, 24.552235] }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "properties": { "rand_point_id": 18, "temperature": 25.4 },
+      "geometry": { "type": "Point", "coordinates": [-81.792731, 24.56539] }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "properties": { "rand_point_id": 19, "temperature": 25.2 },
+      "geometry": { "type": "Point", "coordinates": [-81.753078, 24.568047] }
+    }
+  ]
+}
